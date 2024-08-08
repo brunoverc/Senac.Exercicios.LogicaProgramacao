@@ -1,0 +1,14 @@
+C:\Users\Instrutor\Documents\Codigos\ExerciciosPortugol\Exercicio14\bin\Debug\net8.0\Exercicio14.exe
+C:\Users\Instrutor\Documents\Codigos\ExerciciosPortugol\Exercicio14\bin\Debug\net8.0\Exercicio14.deps.json
+C:\Users\Instrutor\Documents\Codigos\ExerciciosPortugol\Exercicio14\bin\Debug\net8.0\Exercicio14.runtimeconfig.json
+C:\Users\Instrutor\Documents\Codigos\ExerciciosPortugol\Exercicio14\bin\Debug\net8.0\Exercicio14.dll
+C:\Users\Instrutor\Documents\Codigos\ExerciciosPortugol\Exercicio14\bin\Debug\net8.0\Exercicio14.pdb
+C:\Users\Instrutor\Documents\Codigos\ExerciciosPortugol\Exercicio14\obj\Debug\net8.0\Exercicio14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Instrutor\Documents\Codigos\ExerciciosPortugol\Exercicio14\obj\Debug\net8.0\Exercicio14.AssemblyInfoInputs.cache
+C:\Users\Instrutor\Documents\Codigos\ExerciciosPortugol\Exercicio14\obj\Debug\net8.0\Exercicio14.AssemblyInfo.cs
+C:\Users\Instrutor\Documents\Codigos\ExerciciosPortugol\Exercicio14\obj\Debug\net8.0\Exercicio14.csproj.CoreCompileInputs.cache
+C:\Users\Instrutor\Documents\Codigos\ExerciciosPortugol\Exercicio14\obj\Debug\net8.0\Exercicio14.dll
+C:\Users\Instrutor\Documents\Codigos\ExerciciosPortugol\Exercicio14\obj\Debug\net8.0\refint\Exercicio14.dll
+C:\Users\Instrutor\Documents\Codigos\ExerciciosPortugol\Exercicio14\obj\Debug\net8.0\Exercicio14.pdb
+C:\Users\Instrutor\Documents\Codigos\ExerciciosPortugol\Exercicio14\obj\Debug\net8.0\Exercicio14.genruntimeconfig.cache
+C:\Users\Instrutor\Documents\Codigos\ExerciciosPortugol\Exercicio14\obj\Debug\net8.0\ref\Exercicio14.dll
