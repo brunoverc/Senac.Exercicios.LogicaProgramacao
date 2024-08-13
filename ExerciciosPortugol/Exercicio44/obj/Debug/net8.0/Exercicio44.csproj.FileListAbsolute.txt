@@ -1,0 +1,15 @@
+C:\Users\Instrutor\Documents\Codigos\Exercicios.LogicaProgramacao\ExerciciosPortugol\Exercicio44\obj\Debug\net8.0\Exercicio44.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Instrutor\Documents\Codigos\Exercicios.LogicaProgramacao\ExerciciosPortugol\Exercicio44\obj\Debug\net8.0\Exercicio44.AssemblyInfoInputs.cache
+C:\Users\Instrutor\Documents\Codigos\Exercicios.LogicaProgramacao\ExerciciosPortugol\Exercicio44\obj\Debug\net8.0\Exercicio44.AssemblyInfo.cs
+C:\Users\Instrutor\Documents\Codigos\Exercicios.LogicaProgramacao\ExerciciosPortugol\Exercicio44\obj\Debug\net8.0\Exercicio44.csproj.CoreCompileInputs.cache
+C:\Users\Instrutor\Documents\Codigos\Exercicios.LogicaProgramacao\ExerciciosPortugol\Exercicio44\obj\Debug\net8.0\Exercicio44.sourcelink.json
+C:\Users\Instrutor\Documents\Codigos\Exercicios.LogicaProgramacao\ExerciciosPortugol\Exercicio44\bin\Debug\net8.0\Exercicio44.exe
+C:\Users\Instrutor\Documents\Codigos\Exercicios.LogicaProgramacao\ExerciciosPortugol\Exercicio44\bin\Debug\net8.0\Exercicio44.deps.json
+C:\Users\Instrutor\Documents\Codigos\Exercicios.LogicaProgramacao\ExerciciosPortugol\Exercicio44\bin\Debug\net8.0\Exercicio44.runtimeconfig.json
+C:\Users\Instrutor\Documents\Codigos\Exercicios.LogicaProgramacao\ExerciciosPortugol\Exercicio44\bin\Debug\net8.0\Exercicio44.dll
+C:\Users\Instrutor\Documents\Codigos\Exercicios.LogicaProgramacao\ExerciciosPortugol\Exercicio44\bin\Debug\net8.0\Exercicio44.pdb
+C:\Users\Instrutor\Documents\Codigos\Exercicios.LogicaProgramacao\ExerciciosPortugol\Exercicio44\obj\Debug\net8.0\Exercicio44.dll
+C:\Users\Instrutor\Documents\Codigos\Exercicios.LogicaProgramacao\ExerciciosPortugol\Exercicio44\obj\Debug\net8.0\refint\Exercicio44.dll
+C:\Users\Instrutor\Documents\Codigos\Exercicios.LogicaProgramacao\ExerciciosPortugol\Exercicio44\obj\Debug\net8.0\Exercicio44.pdb
+C:\Users\Instrutor\Documents\Codigos\Exercicios.LogicaProgramacao\ExerciciosPortugol\Exercicio44\obj\Debug\net8.0\Exercicio44.genruntimeconfig.cache
+C:\Users\Instrutor\Documents\Codigos\Exercicios.LogicaProgramacao\ExerciciosPortugol\Exercicio44\obj\Debug\net8.0\ref\Exercicio44.dll

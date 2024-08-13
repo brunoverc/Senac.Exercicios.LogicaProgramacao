@@ -1,0 +1,15 @@
+C:\Users\Instrutor\Documents\Codigos\Exercicios.LogicaProgramacao\ExerciciosPortugol\Exercicio56\obj\Debug\net8.0\Exercicio56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Instrutor\Documents\Codigos\Exercicios.LogicaProgramacao\ExerciciosPortugol\Exercicio56\obj\Debug\net8.0\Exercicio56.AssemblyInfoInputs.cache
+C:\Users\Instrutor\Documents\Codigos\Exercicios.LogicaProgramacao\ExerciciosPortugol\Exercicio56\obj\Debug\net8.0\Exercicio56.AssemblyInfo.cs
+C:\Users\Instrutor\Documents\Codigos\Exercicios.LogicaProgramacao\ExerciciosPortugol\Exercicio56\obj\Debug\net8.0\Exercicio56.csproj.CoreCompileInputs.cache
+C:\Users\Instrutor\Documents\Codigos\Exercicios.LogicaProgramacao\ExerciciosPortugol\Exercicio56\obj\Debug\net8.0\Exercicio56.sourcelink.json
+C:\Users\Instrutor\Documents\Codigos\Exercicios.LogicaProgramacao\ExerciciosPortugol\Exercicio56\bin\Debug\net8.0\Exercicio56.exe
+C:\Users\Instrutor\Documents\Codigos\Exercicios.LogicaProgramacao\ExerciciosPortugol\Exercicio56\bin\Debug\net8.0\Exercicio56.deps.json
+C:\Users\Instrutor\Documents\Codigos\Exercicios.LogicaProgramacao\ExerciciosPortugol\Exercicio56\bin\Debug\net8.0\Exercicio56.runtimeconfig.json
+C:\Users\Instrutor\Documents\Codigos\Exercicios.LogicaProgramacao\ExerciciosPortugol\Exercicio56\bin\Debug\net8.0\Exercicio56.dll
+C:\Users\Instrutor\Documents\Codigos\Exercicios.LogicaProgramacao\ExerciciosPortugol\Exercicio56\bin\Debug\net8.0\Exercicio56.pdb
+C:\Users\Instrutor\Documents\Codigos\Exercicios.LogicaProgramacao\ExerciciosPortugol\Exercicio56\obj\Debug\net8.0\Exercicio56.dll
+C:\Users\Instrutor\Documents\Codigos\Exercicios.LogicaProgramacao\ExerciciosPortugol\Exercicio56\obj\Debug\net8.0\refint\Exercicio56.dll
+C:\Users\Instrutor\Documents\Codigos\Exercicios.LogicaProgramacao\ExerciciosPortugol\Exercicio56\obj\Debug\net8.0\Exercicio56.pdb
+C:\Users\Instrutor\Documents\Codigos\Exercicios.LogicaProgramacao\ExerciciosPortugol\Exercicio56\obj\Debug\net8.0\Exercicio56.genruntimeconfig.cache
+C:\Users\Instrutor\Documents\Codigos\Exercicios.LogicaProgramacao\ExerciciosPortugol\Exercicio56\obj\Debug\net8.0\ref\Exercicio56.dll

@@ -1,0 +1,15 @@
+C:\Users\Instrutor\Documents\Codigos\Exercicios.LogicaProgramacao\ExerciciosPortugol\Exercicio29\bin\Debug\net8.0\Exercicio29.exe
+C:\Users\Instrutor\Documents\Codigos\Exercicios.LogicaProgramacao\ExerciciosPortugol\Exercicio29\bin\Debug\net8.0\Exercicio29.deps.json
+C:\Users\Instrutor\Documents\Codigos\Exercicios.LogicaProgramacao\ExerciciosPortugol\Exercicio29\bin\Debug\net8.0\Exercicio29.runtimeconfig.json
+C:\Users\Instrutor\Documents\Codigos\Exercicios.LogicaProgramacao\ExerciciosPortugol\Exercicio29\bin\Debug\net8.0\Exercicio29.dll
+C:\Users\Instrutor\Documents\Codigos\Exercicios.LogicaProgramacao\ExerciciosPortugol\Exercicio29\bin\Debug\net8.0\Exercicio29.pdb
+C:\Users\Instrutor\Documents\Codigos\Exercicios.LogicaProgramacao\ExerciciosPortugol\Exercicio29\obj\Debug\net8.0\Exercicio29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Instrutor\Documents\Codigos\Exercicios.LogicaProgramacao\ExerciciosPortugol\Exercicio29\obj\Debug\net8.0\Exercicio29.AssemblyInfoInputs.cache
+C:\Users\Instrutor\Documents\Codigos\Exercicios.LogicaProgramacao\ExerciciosPortugol\Exercicio29\obj\Debug\net8.0\Exercicio29.AssemblyInfo.cs
+C:\Users\Instrutor\Documents\Codigos\Exercicios.LogicaProgramacao\ExerciciosPortugol\Exercicio29\obj\Debug\net8.0\Exercicio29.csproj.CoreCompileInputs.cache
+C:\Users\Instrutor\Documents\Codigos\Exercicios.LogicaProgramacao\ExerciciosPortugol\Exercicio29\obj\Debug\net8.0\Exercicio29.sourcelink.json
+C:\Users\Instrutor\Documents\Codigos\Exercicios.LogicaProgramacao\ExerciciosPortugol\Exercicio29\obj\Debug\net8.0\Exercicio29.dll
+C:\Users\Instrutor\Documents\Codigos\Exercicios.LogicaProgramacao\ExerciciosPortugol\Exercicio29\obj\Debug\net8.0\refint\Exercicio29.dll
+C:\Users\Instrutor\Documents\Codigos\Exercicios.LogicaProgramacao\ExerciciosPortugol\Exercicio29\obj\Debug\net8.0\Exercicio29.pdb
+C:\Users\Instrutor\Documents\Codigos\Exercicios.LogicaProgramacao\ExerciciosPortugol\Exercicio29\obj\Debug\net8.0\Exercicio29.genruntimeconfig.cache
+C:\Users\Instrutor\Documents\Codigos\Exercicios.LogicaProgramacao\ExerciciosPortugol\Exercicio29\obj\Debug\net8.0\ref\Exercicio29.dll

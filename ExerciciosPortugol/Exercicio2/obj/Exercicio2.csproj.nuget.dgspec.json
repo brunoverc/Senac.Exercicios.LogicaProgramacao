@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Instrutor\\Documents\\Codigos\\ExerciciosPortugol\\Exercicio2\\Exercicio2.csproj": {}
+    "C:\\Users\\Instrutor\\Documents\\Codigos\\Exercicios.LogicaProgramacao\\ExerciciosPortugol\\Exercicio2\\Exercicio2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Instrutor\\Documents\\Codigos\\ExerciciosPortugol\\Exercicio2\\Exercicio2.csproj": {
+    "C:\\Users\\Instrutor\\Documents\\Codigos\\Exercicios.LogicaProgramacao\\ExerciciosPortugol\\Exercicio2\\Exercicio2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Instrutor\\Documents\\Codigos\\ExerciciosPortugol\\Exercicio2\\Exercicio2.csproj",
+        "projectUniqueName": "C:\\Users\\Instrutor\\Documents\\Codigos\\Exercicios.LogicaProgramacao\\ExerciciosPortugol\\Exercicio2\\Exercicio2.csproj",
         "projectName": "Exercicio2",
-        "projectPath": "C:\\Users\\Instrutor\\Documents\\Codigos\\ExerciciosPortugol\\Exercicio2\\Exercicio2.csproj",
+        "projectPath": "C:\\Users\\Instrutor\\Documents\\Codigos\\Exercicios.LogicaProgramacao\\ExerciciosPortugol\\Exercicio2\\Exercicio2.csproj",
         "packagesPath": "C:\\Users\\Instrutor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Instrutor\\Documents\\Codigos\\ExerciciosPortugol\\Exercicio2\\obj\\",
+        "outputPath": "C:\\Users\\Instrutor\\Documents\\Codigos\\Exercicios.LogicaProgramacao\\ExerciciosPortugol\\Exercicio2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Instrutor\\AppData\\Roaming\\NuGet\\NuGet.Config",

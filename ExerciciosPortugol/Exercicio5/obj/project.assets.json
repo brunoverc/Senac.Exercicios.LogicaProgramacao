@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Instrutor\\Documents\\Codigos\\ExerciciosPortugol\\Exercicio5\\Exercicio5.csproj",
+      "projectUniqueName": "C:\\Users\\Instrutor\\Documents\\Codigos\\Exercicios.LogicaProgramacao\\ExerciciosPortugol\\Exercicio5\\Exercicio5.csproj",
       "projectName": "Exercicio5",
-      "projectPath": "C:\\Users\\Instrutor\\Documents\\Codigos\\ExerciciosPortugol\\Exercicio5\\Exercicio5.csproj",
+      "projectPath": "C:\\Users\\Instrutor\\Documents\\Codigos\\Exercicios.LogicaProgramacao\\ExerciciosPortugol\\Exercicio5\\Exercicio5.csproj",
       "packagesPath": "C:\\Users\\Instrutor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Instrutor\\Documents\\Codigos\\ExerciciosPortugol\\Exercicio5\\obj\\",
+      "outputPath": "C:\\Users\\Instrutor\\Documents\\Codigos\\Exercicios.LogicaProgramacao\\ExerciciosPortugol\\Exercicio5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Instrutor\\AppData\\Roaming\\NuGet\\NuGet.Config",
