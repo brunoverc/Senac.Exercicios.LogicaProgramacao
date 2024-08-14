@@ -1,12 +1,139 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Instrutor\\Documents\\Codigos\\Exercicios.LogicaProgramacao\\ExerciciosPortugol\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FAD9479-9E5E-46DE-B51F-0A4188D303FA}|Exercicio36\\Exercicio36.csproj|c:\\users\\instrutor\\documents\\codigos\\exercicios.logicaprogramacao\\exerciciosportugol\\exercicio36\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FAD9479-9E5E-46DE-B51F-0A4188D303FA}|Exercicio36\\Exercicio36.csproj|solutionrelative:exercicio36\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12399CD-EE07-4B9A-B54C-DE3D7D28ECE2}|Exercicio35\\Exercicio35.csproj|c:\\users\\instrutor\\documents\\codigos\\exercicios.logicaprogramacao\\exerciciosportugol\\exercicio35\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E12399CD-EE07-4B9A-B54C-DE3D7D28ECE2}|Exercicio35\\Exercicio35.csproj|solutionrelative:exercicio35\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE2DE70-6F05-40FE-A1A3-7140F155A72C}|Exercicio34\\Exercicio34.csproj|c:\\users\\instrutor\\documents\\codigos\\exercicios.logicaprogramacao\\exerciciosportugol\\exercicio34\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE2DE70-6F05-40FE-A1A3-7140F155A72C}|Exercicio34\\Exercicio34.csproj|solutionrelative:exercicio34\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D13CDD9-D3E8-41BC-B0BE-97DB7C81F8FC}|Exercicio33\\Exercicio33.csproj|c:\\users\\instrutor\\documents\\codigos\\exercicios.logicaprogramacao\\exerciciosportugol\\exercicio33\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D13CDD9-D3E8-41BC-B0BE-97DB7C81F8FC}|Exercicio33\\Exercicio33.csproj|solutionrelative:exercicio33\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03640F7F-BBB5-4715-ADB1-04F2ECECBB13}|Exercicio32\\Exercicio32.csproj|c:\\users\\instrutor\\documents\\codigos\\exercicios.logicaprogramacao\\exerciciosportugol\\exercicio32\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03640F7F-BBB5-4715-ADB1-04F2ECECBB13}|Exercicio32\\Exercicio32.csproj|solutionrelative:exercicio32\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B60C48-A78E-423A-9C6E-D89CFC02A35C}|Exercicio31\\Exercicio31.csproj|c:\\users\\instrutor\\documents\\codigos\\exercicios.logicaprogramacao\\exerciciosportugol\\exercicio31\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B60C48-A78E-423A-9C6E-D89CFC02A35C}|Exercicio31\\Exercicio31.csproj|solutionrelative:exercicio31\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BAF963-B5C6-4853-B72A-5B70E03CD684}|Exercicio30\\Exercicio30.csproj|c:\\users\\instrutor\\documents\\codigos\\exercicios.logicaprogramacao\\exerciciosportugol\\exercicio30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85BAF963-B5C6-4853-B72A-5B70E03CD684}|Exercicio30\\Exercicio30.csproj|solutionrelative:exercicio30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Instrutor\\Documents\\Codigos\\Exercicios.LogicaProgramacao\\ExerciciosPortugol\\Exercicio36\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio36\\Program.cs",
+              "ToolTip": "C:\\Users\\Instrutor\\Documents\\Codigos\\Exercicios.LogicaProgramacao\\ExerciciosPortugol\\Exercicio36\\Program.cs",
+              "RelativeToolTip": "Exercicio36\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAAC8AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T00:27:26.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Instrutor\\Documents\\Codigos\\Exercicios.LogicaProgramacao\\ExerciciosPortugol\\Exercicio35\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio35\\Program.cs",
+              "ToolTip": "C:\\Users\\Instrutor\\Documents\\Codigos\\Exercicios.LogicaProgramacao\\ExerciciosPortugol\\Exercicio35\\Program.cs",
+              "RelativeToolTip": "Exercicio35\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAACIAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T00:13:57.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Instrutor\\Documents\\Codigos\\Exercicios.LogicaProgramacao\\ExerciciosPortugol\\Exercicio34\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio34\\Program.cs",
+              "ToolTip": "C:\\Users\\Instrutor\\Documents\\Codigos\\Exercicios.LogicaProgramacao\\ExerciciosPortugol\\Exercicio34\\Program.cs",
+              "RelativeToolTip": "Exercicio34\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAACkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T23:56:00.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Instrutor\\Documents\\Codigos\\Exercicios.LogicaProgramacao\\ExerciciosPortugol\\Exercicio33\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio33\\Program.cs",
+              "ToolTip": "C:\\Users\\Instrutor\\Documents\\Codigos\\Exercicios.LogicaProgramacao\\ExerciciosPortugol\\Exercicio33\\Program.cs",
+              "RelativeToolTip": "Exercicio33\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T23:43:42.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Instrutor\\Documents\\Codigos\\Exercicios.LogicaProgramacao\\ExerciciosPortugol\\Exercicio32\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio32\\Program.cs",
+              "ToolTip": "C:\\Users\\Instrutor\\Documents\\Codigos\\Exercicios.LogicaProgramacao\\ExerciciosPortugol\\Exercicio32\\Program.cs",
+              "RelativeToolTip": "Exercicio32\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T23:03:26.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Instrutor\\Documents\\Codigos\\Exercicios.LogicaProgramacao\\ExerciciosPortugol\\Exercicio31\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio31\\Program.cs",
+              "ToolTip": "C:\\Users\\Instrutor\\Documents\\Codigos\\Exercicios.LogicaProgramacao\\ExerciciosPortugol\\Exercicio31\\Program.cs",
+              "RelativeToolTip": "Exercicio31\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T22:32:17.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Instrutor\\Documents\\Codigos\\Exercicios.LogicaProgramacao\\ExerciciosPortugol\\Exercicio30\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio30\\Program.cs",
+              "ToolTip": "C:\\Users\\Instrutor\\Documents\\Codigos\\Exercicios.LogicaProgramacao\\ExerciciosPortugol\\Exercicio30\\Program.cs",
+              "RelativeToolTip": "Exercicio30\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABoAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T22:19:33.065Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

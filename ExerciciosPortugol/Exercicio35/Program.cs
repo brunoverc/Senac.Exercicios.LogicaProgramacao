@@ -12,4 +12,24 @@ Faça um programa que leia quantas horas de atividade uma pessoa teve por mês,
 calcule e mostre quantos pontos ela teve e quanto dinheiro ela conseguiu ganhar.
  */
 
-Console.WriteLine("Olá mundo! Senac");
+int horasAtividadeMes, pontos = 0;
+decimal valorFinal;
+
+Console.WriteLine("Digite a quantidade de horas em atividades físicas no mês:");
+horasAtividadeMes = Convert.ToInt32(Console.ReadLine());
+
+if(horasAtividadeMes <= 10)
+{
+    pontos = 2 * horasAtividadeMes;
+} else if(horasAtividadeMes <= 20)
+{
+    pontos = 5 * horasAtividadeMes;
+}
+else
+{
+    pontos = 10 * horasAtividadeMes;
+}
+
+valorFinal = pontos * 0.05M;
+
+Console.WriteLine("O valor do prêmio é de: R$ " + valorFinal);
