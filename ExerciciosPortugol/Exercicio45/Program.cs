@@ -3,4 +3,13 @@
 8 + 10 + 12 + 14 + ... + 98 + 100.
  */
 
-Console.WriteLine("Olá mundo! Senac");
+int contador = 6, resultado = 0;
+
+while(contador <= 100)
+{
+    resultado += contador;
+
+    contador += 2;
+}
+
+Console.WriteLine("O resultado final foi de: " + resultado);

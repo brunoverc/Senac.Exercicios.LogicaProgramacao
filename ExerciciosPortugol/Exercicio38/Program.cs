@@ -3,4 +3,12 @@
 10 9 8 7 6 5 4 3 Acabou!
  */
 
-Console.WriteLine("Olá mundo! Senac");
+int contador = 10;
+
+while(contador >= 3)
+{
+    Console.Write(contador + " ");
+    contador--;
+}
+
+Console.Write("Acabou!");
