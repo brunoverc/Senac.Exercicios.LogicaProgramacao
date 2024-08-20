@@ -7,4 +7,37 @@ c) A média de peso entre as mulheres
 d) O maior peso entre os homens
 */
 
-Console.WriteLine("Olá mundo! Senac");
+string sexo;
+decimal peso, totalPesoMulheres = 0, maiorPesoHomens = 0;
+int qtdeMulheres = 0, qtdeHomensMais100Kg = 0;
+
+for(int cont = 1; cont <= 8; cont++)
+{
+    Console.WriteLine("Digite seu sexo:");
+    sexo = Console.ReadLine();
+    Console.WriteLine("Digite seu peso:");
+    peso = Convert.ToDecimal(Console.ReadLine());
+
+    if(sexo.ToUpper() == "M")
+    {
+        if(peso > 100)
+        {
+            qtdeHomensMais100Kg++;
+        }
+
+        if(maiorPesoHomens < peso)
+        {
+            maiorPesoHomens = peso;
+        }
+    }
+    else
+    {
+        qtdeMulheres++;
+        totalPesoMulheres += peso;
+    }
+}
+
+Console.WriteLine("Quantas mulheres foram cadastradas: " + qtdeMulheres);
+Console.WriteLine("Quantos homens pesam mais de 100Kg: " + qtdeHomensMais100Kg);
+Console.WriteLine("A média de peso entre as mulheres: " + (totalPesoMulheres / qtdeMulheres));
+Console.WriteLine("O maior peso entre os homens: " + maiorPesoHomens);
